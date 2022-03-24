@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         view.backgroundColor = .red
     }
 
-    func method(_ name: String) {
+    func sayHello(_ name: String) {
         print("Hello, \(name)")
     }
 }
