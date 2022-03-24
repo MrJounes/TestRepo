@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = .red
     }
-    
+
     func method(_ name: String) {
         print("Hello, \(name)")
     }
